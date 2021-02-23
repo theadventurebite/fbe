@@ -1,0 +1,279 @@
+<!-- wp:generateblocks/container {"uniqueId":"d4d143bd","outerContainer":"contained","paddingTop":"0","paddingRight":"0","paddingBottom":"20","paddingLeft":"0","marginTop":"0","marginRight":"0","marginBottom":"0","marginLeft":"0","borderSizeTop":"0","borderSizeRight":"0","borderSizeBottom":"0","borderSizeLeft":"0","borderRadiusTopRight":"0","borderRadiusBottomRight":"0","borderRadiusBottomLeft":"0","borderRadiusTopLeft":"0","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true} -->
+<!-- wp:generateblocks/grid {"uniqueId":"f1f5dd8a","columns":3,"isDynamic":true} -->
+<!-- wp:generateblocks/container {"uniqueId":"3ea8b3d9","isGrid":true,"gridId":"f1f5dd8a","width":33.33,"paddingTop":"0","paddingRight":"0","paddingBottom":"0","paddingLeft":"0","isDynamic":true} -->
+<!-- wp:image {"id":12192,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="https://theadventurebite.com/category/recipes/course/dinner-recipes/"><img src="https://theadventurebite.com/wp-content/uploads/jerk-chicken-bowl-427x640.jpg" alt="" class="wp-image-12192"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":15}}} -->
+<p class="has-text-align-center" style="font-size:15px"><a href="https://theadventurebite.com/category/recipes/course/dinner-recipes/">LINK #1</a></p>
+<!-- /wp:paragraph -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"32e76dda","isGrid":true,"gridId":"f1f5dd8a","width":33.33,"paddingTop":"0","paddingRight":"0","paddingBottom":"0","paddingLeft":"0","isDynamic":true} -->
+<!-- wp:image {"id":25298,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="https://theadventurebite.com/category/recipes/camping-recipes/"><img src="https://theadventurebite.com/wp-content/uploads/2019/02/Camping-Dutch-Oven-Chilaquiles-01-3-427x640.jpg" alt="" class="wp-image-25298"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":15}}} -->
+<p class="has-text-align-center" style="font-size:15px"><a href="https://theadventurebite.com/category/recipes/camping-recipes/"></a><a href="https://theadventurebite.com/category/recipes/course/dinner-recipes/"></a><a href="https://theadventurebite.com/category/recipes/course/dinner-recipes/">LINK #</a>2</p>
+<!-- /wp:paragraph -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"59426021","isGrid":true,"gridId":"f1f5dd8a","width":33.33,"paddingTop":"0","paddingRight":"0","paddingBottom":"0","paddingLeft":"0","isDynamic":true} -->
+<!-- wp:image {"id":13642,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="https://theadventurebite.com/category/recipes/course/drink-recipes/cocktail-recipes/"><img src="https://theadventurebite.com/wp-content/uploads/blackberry-champagne-cocktail-427x640.jpg" alt="" class="wp-image-13642"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":15}}} -->
+<p class="has-text-align-center" style="font-size:15px"><a href="https://theadventurebite.com/category/recipes/camping-recipes/"></a><a href="https://theadventurebite.com/category/recipes/course/dinner-recipes/"></a><a href="https://theadventurebite.com/category/recipes/course/dinner-recipes/">LINK #</a>3</p>
+<!-- /wp:paragraph -->
+<!-- /wp:generateblocks/container -->
+<!-- /wp:generateblocks/grid -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"d00358d1","containerWidth":771,"paddingTop":"54","paddingRight":"0","paddingBottom":"54","paddingLeft":"0","paddingTopMobile":"64","paddingRightMobile":"20","paddingBottomMobile":"50","paddingLeftMobile":"20","backgroundColorOpacity":0.19,"gradient":true,"gradientDirection":188,"gradientColorOne":"#f78da7","gradientColorOneOpacity":1,"gradientColorStopOne":0,"gradientColorTwo":"#31578a","gradientColorTwoOpacity":1,"gradientColorStopTwo":100,"bgOptions":{"overlay":false,"position":"left top","size":"cover","repeat":"no-repeat","attachment":"","selector":"pseudo-element","opacity":0.7},"align":"full","isDynamic":true} -->
+<!-- wp:generateblocks/headline {"uniqueId":"30f457b9","alignment":"center","backgroundColor":"","backgroundColorOpacity":0.2,"textColor":"#000000","borderColor":"","borderColorOpacity":0.8,"highlightTextColor":"","showAdvancedTypography":true,"fontFamily":"Georgia","fontSize":32,"fontSizeTablet":32,"fontSizeMobile":32,"lineHeight":1.2,"marginBottom":"11"} -->
+<h2 class="gb-headline gb-headline-30f457b9 gb-headline-text">This Is A Tagline</h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:generateblocks/headline {"uniqueId":"c0c75194","element":"p","alignment":"center","textColor":"#424242","showAdvancedTypography":true,"fontWeight":"700","fontSize":15,"textTransform":"uppercase","letterSpacing":0.05,"marginBottom":"0"} -->
+<p class="gb-headline gb-headline-c0c75194 gb-headline-text">THIS IS A SUB TAGLINE or a call to action...USE IT WISELY</p>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:html -->
+INSERT YOUR EMAIL SCRIPT HERE
+<!-- /wp:html -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"b9eedf85","width":75,"paddingTop":"0","paddingRight":"0","paddingBottom":"0","paddingLeft":"0","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true} -->
+<!-- wp:generateblocks/headline {"uniqueId":"7d8c3060","alignment":"center","backgroundColor":"#ffffff","backgroundColorOpacity":0.56,"textTransform":"uppercase","marginBottom":"24","paddingTop":"24","paddingBottom":"0","borderSizeBottom":"2","hasIcon":true,"iconColor":"#ccabc1","iconLocation":"above","iconPaddingRight":"","iconPaddingBottom":".4","iconSize":2,"inlineWidth":true} -->
+<h2 class="gb-headline gb-headline-7d8c3060 gb-headline-text">AS SEEN ON:</h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:image {"align":"center","id":29286,"width":444,"height":53,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://theadventurebite.com/wp-content/uploads/2021/01/featured-on-part-1-640x78.png" alt="" class="wp-image-29286" width="444" height="53"/></figure></div>
+<!-- /wp:image -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"ca4801f9","outerContainer":"contained","paddingTop":"0","paddingRight":"0","paddingBottom":"20","paddingLeft":"0","marginTop":"0","marginRight":"0","marginBottom":"0","marginLeft":"0","borderSizeTop":"0","borderSizeRight":"0","borderSizeBottom":"0","borderSizeLeft":"0","borderRadiusTopRight":"0","borderRadiusBottomRight":"0","borderRadiusBottomLeft":"0","borderRadiusTopLeft":"0","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true} -->
+<!-- wp:generateblocks/grid {"uniqueId":"6af61d30","columns":1,"isDynamic":true} -->
+<!-- wp:generateblocks/container {"uniqueId":"5ed859e2","isGrid":true,"gridId":"fa2d83e9","width":75,"paddingTop":"0","paddingRight":"0","paddingBottom":"0","paddingLeft":"0","isDynamic":true} -->
+<!-- wp:generateblocks/headline {"uniqueId":"6a8f5dfa","alignment":"center","backgroundColor":"#ffffff","backgroundColorOpacity":0.56,"textTransform":"uppercase","marginBottom":"24","paddingTop":"24","paddingBottom":"0","borderSizeBottom":"2","hasIcon":true,"iconColor":"#ccabc1","iconLocation":"above","iconPaddingRight":"","iconPaddingBottom":".4","iconSize":2,"inlineWidth":true} -->
+<h2 class="gb-headline gb-headline-6a8f5dfa gb-headline-text">trending posts</h2>
+<!-- /wp:generateblocks/headline -->
+<!-- /wp:generateblocks/container -->
+<!-- /wp:generateblocks/grid -->
+
+<!-- wp:generateblocks/grid {"uniqueId":"4f77ec72","columns":4,"isDynamic":true} -->
+<!-- wp:generateblocks/container {"uniqueId":"41bb7529","isGrid":true,"gridId":"4f77ec72","width":25,"paddingTop":"0","paddingRight":"0","paddingBottom":"0","paddingLeft":"0","isDynamic":true} -->
+<!-- wp:image {"id":24486,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="https://theadventurebite.com/camping-food-ideas/"><img src="https://theadventurebite.com/wp-content/uploads/2017/09/Stress-free-camping-food-ideas-_-102-427x640.jpg" alt="" class="wp-image-24486"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://theadventurebite.com/camping-food-ideas/">101 Stress Free Camping Food Ideas</a></p>
+<!-- /wp:paragraph -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"f8d6fcfb","isGrid":true,"gridId":"4f77ec72","width":25,"paddingTop":"0","paddingRight":"0","paddingBottom":"0","paddingLeft":"0","isDynamic":true} -->
+<!-- wp:image {"id":24607,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="https://theadventurebite.com/3-ingredient-easy-teriyaki-sauce-recipe/"><img src="https://theadventurebite.com/wp-content/uploads/2015/05/teriyaki-sauce-recipe_-427x640.jpg" alt="" class="wp-image-24607"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://theadventurebite.com/3-ingredient-easy-teriyaki-sauce-recipe/">3 Ingredient Easy Teriyaki Sauce</a></p>
+<!-- /wp:paragraph -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"7d090f6d","isGrid":true,"gridId":"4f77ec72","width":25,"paddingTop":"0","paddingRight":"0","paddingBottom":"0","paddingLeft":"0","isDynamic":true} -->
+<!-- wp:image {"id":27036,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="https://theadventurebite.com/pina-colada-recipe/"><img src="https://theadventurebite.com/wp-content/uploads/2019/04/Pina-colada_-18-427x640.jpg" alt="" class="wp-image-27036"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://theadventurebite.com/pina-colada-recipe/">Easy Pina Colada Recipe</a></p>
+<!-- /wp:paragraph -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"e509e08c","isGrid":true,"gridId":"4f77ec72","width":25,"paddingTop":"0","paddingRight":"0","paddingBottom":"0","paddingLeft":"0","isDynamic":true} -->
+<!-- wp:image {"id":25298,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="https://theadventurebite.com/chilaquiles-recipe/"><img src="https://theadventurebite.com/wp-content/uploads/2019/02/Camping-Dutch-Oven-Chilaquiles-01-3-427x640.jpg" alt="" class="wp-image-25298"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://theadventurebite.com/chilaquiles-recipe/">Chilaquiles</a></p>
+<!-- /wp:paragraph -->
+<!-- /wp:generateblocks/container -->
+<!-- /wp:generateblocks/grid -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"80ad9246","paddingTop":"0","paddingRight":"0","paddingBottom":"20","paddingLeft":"0","isDynamic":true} -->
+<!-- wp:generateblocks/headline {"uniqueId":"4fd4dd52","alignment":"center","backgroundColor":"#ffffff","backgroundColorOpacity":0.56,"textTransform":"uppercase","marginBottom":"24","paddingTop":"24","paddingBottom":"0","borderSizeBottom":"2","hasIcon":true,"iconColor":"#ccabc1","iconLocation":"above","iconPaddingRight":"","iconPaddingBottom":".4","iconSize":2,"inlineWidth":true} -->
+<h2 class="gb-headline gb-headline-4fd4dd52 gb-headline-text">POPULAR posts</h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":20276,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="https://theadventurebite.com/simple-dinner-ideas/"><img src="https://theadventurebite.com/wp-content/uploads/2019/04/teriyaki-sauce-recipe-roundup_-9-1-427x640.jpg" alt="" class="wp-image-20276"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://theadventurebite.com/simple-dinner-ideas/">101 Simple Dinner Ideas</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":25211,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="https://theadventurebite.com/pickled-banana-peppers/"><img src="https://theadventurebite.com/wp-content/uploads/2012/05/pickled-banana-peppers-recipe-15-427x640.jpg" alt="" class="wp-image-25211"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://theadventurebite.com/pickled-banana-peppers/">Pickled Banana Peppers</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":26866,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="https://theadventurebite.com/pink-champagne-margarita/"><img src="https://theadventurebite.com/wp-content/uploads/2018/01/Pink-Champagne-Margaritas-427x640.jpg" alt="" class="wp-image-26866"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://theadventurebite.com/pink-champagne-margarita/">Pink Champagne Margaritas</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":22438,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><a href="https://theadventurebite.com/camping-breakfast-sandwich/"><img src="https://theadventurebite.com/wp-content/uploads/2019/08/Camping-Breakfast-Sandwich-16-copy-427x640.jpg" alt="" class="wp-image-22438"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><a href="https://theadventurebite.com/camping-breakfast-sandwich/">Camping Breakfast Sandwich</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"c8937183","backgroundColor":"#fcfbfa","isDynamic":true} -->
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":28409,"width":283,"height":283,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large is-resized"><a href="https://danimeyer.thrivecart.com/stress-free-camping-e-cookbook/"><img src="https://theadventurebite.com/wp-content/uploads/2021/01/mock-00055-640x640.png" alt="" class="wp-image-28409" width="283" height="283"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:generateblocks/headline {"uniqueId":"55715fa1","alignment":"center","backgroundColor":"#ffffff","backgroundColorOpacity":0.56,"textTransform":"uppercase","marginBottom":"24","paddingTop":"24","paddingBottom":"0","borderSizeBottom":"2","hasIcon":true,"iconColor":"#ccabc1","iconLocation":"above","iconPaddingRight":"","iconPaddingBottom":".4","iconSize":2,"inlineWidth":true} -->
+<h2 class="gb-headline gb-headline-55715fa1 gb-headline-text"><strong>buy our ebook</strong></h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:paragraph -->
+<p>Our ebook is the best and this is the reason why! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:generateblocks/button-container {"uniqueId":"fc559a8b","isDynamic":true} -->
+<!-- wp:generateblocks/button {"uniqueId":"98c14901","hasUrl":true,"backgroundColor":"#ccabc1","textColor":"#ffffff","backgroundColorHover":"#222222","textColorHover":"#ffffff","paddingTop":"15","paddingRight":"20","paddingBottom":"15","paddingLeft":"20"} -->
+<a class="gb-button gb-button-98c14901 gb-button-text" href="https://danimeyer.thrivecart.com/stress-free-camping-e-cookbook/">ORDER COOKBOOK</a>
+<!-- /wp:generateblocks/button -->
+<!-- /wp:generateblocks/button-container --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"16d0e8be","outerContainer":"contained","paddingTop":"0","paddingRight":"0","paddingBottom":"20","paddingLeft":"0","marginTop":"0","marginRight":"0","marginBottom":"0","marginLeft":"0","borderSizeTop":"0","borderSizeRight":"0","borderSizeBottom":"0","borderSizeLeft":"0","borderRadiusTopRight":"0","borderRadiusBottomRight":"0","borderRadiusBottomLeft":"0","borderRadiusTopLeft":"0","isDynamic":true} -->
+<!-- wp:generateblocks/headline {"uniqueId":"939e816b","alignment":"center","backgroundColor":"#ffffff","backgroundColorOpacity":0.56,"textTransform":"uppercase","marginBottom":"24","paddingTop":"24","paddingBottom":"0","paddingLeft":"0","borderSizeBottom":"2","hasIcon":true,"iconColor":"#ccabc1","iconLocation":"above","iconPaddingRight":"","iconPaddingBottom":".4","iconSize":2,"inlineWidth":true} -->
+<h2 class="gb-headline gb-headline-939e816b gb-headline-text">CATEGORY</h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:latest-posts {"categories":[],"postsToShow":4,"postLayout":"grid","columns":4,"displayFeaturedImage":true,"featuredImageSizeSlug":"ej-vert-medium-res"} /-->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"2fb662d6","outerContainer":"contained","paddingTop":"0","paddingRight":"0","paddingBottom":"20","paddingLeft":"0","marginTop":"0","marginRight":"0","marginBottom":"0","marginLeft":"0","borderSizeTop":"0","borderSizeRight":"0","borderSizeBottom":"0","borderSizeLeft":"0","borderRadiusTopRight":"0","borderRadiusBottomRight":"0","borderRadiusBottomLeft":"0","borderRadiusTopLeft":"0","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true} -->
+<!-- wp:generateblocks/headline {"uniqueId":"7982985d","alignment":"center","backgroundColor":"#ffffff","backgroundColorOpacity":0.56,"textTransform":"uppercase","marginBottom":"24","paddingTop":"24","paddingBottom":"0","borderSizeBottom":"2","hasIcon":true,"iconColor":"#ccabc1","iconLocation":"above","iconPaddingRight":"","iconPaddingBottom":".4","iconSize":2,"inlineWidth":true} -->
+<h2 class="gb-headline gb-headline-7982985d gb-headline-text">CATEGORY</h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:latest-posts {"categories":[],"postsToShow":4,"postLayout":"grid","columns":4,"displayFeaturedImage":true,"featuredImageSizeSlug":"ej-vert-medium-res"} /-->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"8a5589b1","containerWidth":900,"paddingTop":"19","paddingRight":"20","paddingBottom":"38","paddingLeft":"20","gradient":true,"gradientDirection":180,"gradientColorOneOpacity":1,"gradientColorStopOne":50,"gradientColorTwo":"#f9efef","gradientColorStopTwo":50,"align":"full","isDynamic":true} -->
+<!-- wp:generateblocks/grid {"uniqueId":"1603383a","columns":2,"horizontalGap":100,"verticalAlignment":"flex-start","verticalGapMobile":60,"isDynamic":true} -->
+<!-- wp:generateblocks/container {"uniqueId":"05876ceb","isGrid":true,"gridId":"001b6e0c","paddingTop":"","paddingRight":"","paddingBottom":"","paddingLeft":"","isDynamic":true} -->
+<!-- wp:generateblocks/headline {"uniqueId":"51533db5","borderColor":"#ccabc1","textTransform":"initial","marginBottom":"40","paddingBottom":"10","borderSizeBottom":"2","inlineWidth":true} -->
+<h2 class="gb-headline gb-headline-51533db5 gb-headline-text">Hi, I'm Dani!</h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:paragraph -->
+<p><strong>This is where you tell people who you are and why they should follow your blog</strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tell them why you are amazing! </p>
+<!-- /wp:paragraph -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"35e10856","isGrid":true,"gridId":"001b6e0c","paddingTop":"","paddingRight":"","paddingBottom":"","paddingLeft":"","removeVerticalGap":true,"isDynamic":true} -->
+<!-- wp:image {"id":28294,"width":320,"height":320,"sizeSlug":"large","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-resized is-style-rounded"><a href="https://theadventurebite.com/about-us/"><img src="https://theadventurebite.com/wp-content/uploads/2021/01/dani-snowboarding-640x640.jpg" alt="" class="wp-image-28294" width="320" height="320"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:generateblocks/button-container {"uniqueId":"4b497f89","alignment":"center","isDynamic":true} -->
+<!-- wp:generateblocks/button {"uniqueId":"ab1b574b","hasUrl":true,"backgroundColor":"#ccabc1","textColor":"#ffffff","backgroundColorHover":"#ccabc1","backgroundColorHoverOpacity":0.8,"textColorHover":"#ffffff","showAdvancedTypography":true,"marginTop":"10","marginRight":"10","paddingTop":"10","paddingRight":"22","paddingBottom":"10","paddingLeft":"22"} -->
+<a class="gb-button gb-button-ab1b574b gb-button-text" href="https://theadventurebite.com/about-us/">More About Us</a>
+<!-- /wp:generateblocks/button -->
+<!-- /wp:generateblocks/button-container -->
+<!-- /wp:generateblocks/container -->
+<!-- /wp:generateblocks/grid -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"b80cbdf6","outerContainer":"contained","paddingTop":"0","paddingRight":"0","paddingBottom":"20","paddingLeft":"0","marginTop":"0","marginRight":"0","marginBottom":"0","marginLeft":"0","borderSizeTop":"0","borderSizeRight":"0","borderSizeBottom":"0","borderSizeLeft":"0","borderRadiusTopRight":"0","borderRadiusBottomRight":"0","borderRadiusBottomLeft":"0","borderRadiusTopLeft":"0","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true} -->
+<!-- wp:generateblocks/headline {"uniqueId":"9a059f23","alignment":"center","backgroundColor":"#ffffff","backgroundColorOpacity":0.56,"textTransform":"uppercase","marginBottom":"24","paddingTop":"24","paddingBottom":"0","borderSizeBottom":"2","hasIcon":true,"iconColor":"#ccabc1","iconLocation":"above","iconPaddingRight":"","iconPaddingBottom":".4","iconSize":2,"inlineWidth":true} -->
+<h2 class="gb-headline gb-headline-9a059f23 gb-headline-text">category</h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:latest-posts {"categories":[],"postsToShow":4,"postLayout":"grid","columns":4,"displayFeaturedImage":true,"featuredImageSizeSlug":"ej-vert-medium-res"} /-->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"572377d7","outerContainer":"contained","paddingTop":"0","paddingRight":"0","paddingBottom":"20","paddingLeft":"0","marginTop":"0","marginRight":"0","marginBottom":"0","marginLeft":"0","borderSizeTop":"0","borderSizeRight":"0","borderSizeBottom":"0","borderSizeLeft":"0","borderRadiusTopRight":"0","borderRadiusBottomRight":"0","borderRadiusBottomLeft":"0","borderRadiusTopLeft":"0","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true} -->
+<!-- wp:generateblocks/headline {"uniqueId":"a4786436","alignment":"center","backgroundColor":"#ffffff","backgroundColorOpacity":0.56,"textTransform":"uppercase","marginBottom":"24","paddingTop":"24","paddingBottom":"0","borderSizeBottom":"2","hasIcon":true,"iconColor":"#ccabc1","iconLocation":"above","iconPaddingRight":"","iconPaddingBottom":".4","iconSize":2,"inlineWidth":true} -->
+<h2 class="gb-headline gb-headline-a4786436 gb-headline-text">CATEGORY</h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:latest-posts {"categories":[],"postsToShow":4,"postLayout":"grid","columns":4,"displayFeaturedImage":true,"featuredImageSizeSlug":"ej-vert-medium-res"} /-->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"e530c789","outerContainer":"contained","paddingTop":"0","paddingRight":"0","paddingBottom":"20","paddingLeft":"0","marginTop":"0","marginRight":"0","marginBottom":"0","marginLeft":"0","borderSizeTop":"0","borderSizeRight":"0","borderSizeBottom":"0","borderSizeLeft":"0","borderRadiusTopRight":"0","borderRadiusBottomRight":"0","borderRadiusBottomLeft":"0","borderRadiusTopLeft":"0","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true} -->
+<!-- wp:generateblocks/headline {"uniqueId":"0787a1d2","alignment":"center","backgroundColor":"#ffffff","backgroundColorOpacity":0.56,"textTransform":"uppercase","marginBottom":"24","paddingTop":"24","paddingBottom":"0","borderSizeBottom":"2","hasIcon":true,"iconColor":"#ccabc1","iconLocation":"above","iconPaddingRight":"","iconPaddingBottom":".4","iconSize":2,"inlineWidth":true} -->
+<h2 class="gb-headline gb-headline-0787a1d2 gb-headline-text">CATEGORY</h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:latest-posts {"categories":[],"postsToShow":4,"postLayout":"grid","columns":4,"displayFeaturedImage":true,"featuredImageSizeSlug":"ej-vert-medium-res"} /-->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"f8764045","outerContainer":"contained","paddingTop":"0","paddingRight":"0","paddingBottom":"20","paddingLeft":"0","marginTop":"0","marginRight":"0","marginBottom":"0","marginLeft":"0","borderSizeTop":"0","borderSizeRight":"0","borderSizeBottom":"0","borderSizeLeft":"0","borderRadiusTopRight":"0","borderRadiusBottomRight":"0","borderRadiusBottomLeft":"0","borderRadiusTopLeft":"0","bgOptions":{"selector":"element","opacity":1,"overlay":false,"position":"center center","size":"cover","repeat":"no-repeat","attachment":""},"shapeDividers":[],"isDynamic":true,"className":"home-page-dividers"} -->
+<!-- wp:generateblocks/headline {"uniqueId":"4d2844f6","alignment":"center","backgroundColor":"#ffffff","backgroundColorOpacity":0.56,"textTransform":"uppercase","marginBottom":"24","paddingTop":"24","paddingBottom":"0","borderSizeBottom":"2","hasIcon":true,"iconColor":"#ccabc1","iconLocation":"above","iconPaddingRight":"","iconPaddingBottom":".4","iconSize":2,"inlineWidth":true} -->
+<h2 class="gb-headline gb-headline-4d2844f6 gb-headline-text">CATEGORY</h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:latest-posts {"categories":[],"postsToShow":4,"postLayout":"grid","columns":4,"displayFeaturedImage":true,"featuredImageSizeSlug":"ej-vert-medium-res"} /-->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:generateblocks/container {"uniqueId":"32123fd5","paddingTop":"21","paddingRight":"20","paddingBottom":"10","paddingLeft":"20","isDynamic":true} -->
+<!-- wp:generateblocks/headline {"uniqueId":"5ed062dc","alignment":"center","showAdvancedTypography":true,"hasIcon":true,"iconColor":"#ccabc1","iconLocation":"above","iconPaddingRight":"","iconPaddingBottom":".4","iconSize":2} -->
+<h2 class="gb-headline gb-headline-5ed062dc"><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 48.039"><path d="M50 24a.648.648 0 00-.195-.469l-8.398-8.086V.664C41.406.273 41.094 0 40.703 0H9.297c-.391 0-.664.312-.703.664v14.781L.196 23.492C.078 23.648 0 23.805 0 24v23.336c0 .391.312.664.664.703h48.633c.391 0 .664-.312.703-.664V24zm-1.992-.312l-6.602 2.148v-8.477l6.602 6.329zM8.594 25.836l-6.602-2.148 6.602-6.328v8.476zm40.039 20.797H1.367V24.938l23.437 7.539a.801.801 0 00.43 0l2.422-.781c.352-.117.547-.508.43-.859s-.508-.547-.859-.43L25 31.109 9.961 26.266V1.367h20.078v24.898l-2.383.742c-.352.117-.547.508-.43.898a.685.685 0 00.859.43l10.547-3.398v21.696zM34.219 28.844a.685.685 0 01-.43.859l-1.836.586a.685.685 0 01-.859-.43.685.685 0 01.43-.859l1.836-.586a.685.685 0 01.859.43zm1.484-13.516l-9.297 9.766a1.97 1.97 0 01-2.773.078l-.078-.078-9.297-9.766c-2.07-2.148-2.031-5.586.078-7.695a.724.724 0 01.977-.039.724.724 0 01.039.977 4.161 4.161 0 00-.078 5.82l9.297 9.766a.613.613 0 00.859 0l9.297-9.766c1.602-1.68 1.523-4.297-.156-5.898a4.118 4.118 0 00-2.852-1.133h-.43c-2.227 0-4.375 1.016-5.742 2.813-.234.312-.781.352-1.094 0a7.274 7.274 0 00-5.742-2.813c-.391 0-.703-.312-.703-.703s.312-.703.703-.703A8.69 8.69 0 0125 8.649c1.641-1.719 3.906-2.734 6.289-2.695h.43a5.543 5.543 0 015.547 5.547c-.039 1.444-.586 2.812-1.563 3.827zm-3.32-3.164a.95.95 0 00.039-1.25c-.234-.273-.195-.703.078-.977.273-.234.703-.195.977.078.742.898.703 2.227-.078 3.047l-1.406 1.445c-.273.273-.703.312-.977.039-.273-.273-.313-.703-.039-.977l.039-.039 1.367-1.366z"></path></svg></span><span class="gb-headline-text"></span></h2>
+<!-- /wp:generateblocks/headline -->
+
+<!-- wp:html -->
+INSERT YOUR EMAIL OPT IN SCRIPT HERE
+<!-- /wp:html -->
+<!-- /wp:generateblocks/container -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

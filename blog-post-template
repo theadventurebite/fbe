@@ -109,7 +109,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 id="h-products-affiliate-links-photos-if-there-is-something-special-don-t-stuff-this-with-useless-products-that-don-t-really-matter">Products (Affiliate links/photos if there is something special, don't stuff this with useless products that don't really matter) </h2>
+<h2 id="h-products">Products (Affiliate links/photos if there is something special, don't stuff this with useless products that don't really matter) </h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -117,7 +117,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You can write more about the recipe blog post and highlight features. </p>
+<p>You can write more about the blog post and highlight features. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -133,17 +133,13 @@
 <!-- /wp:heading -->
 
 <!-- wp:yoast/faq-block {"questions":[{"id":"faq-question-1597861805511","question":["Question #1 - Substitutions"],"answer":["Answer the question"],"jsonQuestion":"Question #1 - Substitutions","jsonAnswer":"Answer the question"},{"id":"faq-question-1597861824710","question":["Question #2 - Freezing etc. "],"answer":["Answer the question"],"jsonQuestion":"Question #2 - Freezing etc. ","jsonAnswer":"Answer the question"}]} -->
-<div class="schema-faq wp-block-yoast-faq-block"><div class="schema-faq-section" id="faq-question-1597861805511"><strong class="schema-faq-question">Question #1 - Substitutions</strong> <p class="schema-faq-answer">Answer the question</p> </div> <div class="schema-faq-section" id="faq-question-1597861824710"><strong class="schema-faq-question">Question #2 - Freezing etc. </strong> <p class="schema-faq-answer">Answer the question</p> </div> </div>
+<div class="schema-faq wp-block-yoast-faq-block"><div class="schema-faq-section" id="faq-question-1597861805511"><strong class="schema-faq-question">Question #1</strong> <p class="schema-faq-answer">Answer the question</p> </div> <div class="schema-faq-section" id="faq-question-1597861824710"><strong class="schema-faq-question">Question #2 </strong> <p class="schema-faq-answer">Answer the question</p> </div> </div>
 <!-- /wp:yoast/faq-block -->
 
 <!-- wp:heading -->
-<h2 id="h-more-recipes-you-might-enjoy">More Recipes You Might Enjoy:</h2>
+<h2 id="h-more-recipes-you-might-enjoy">More Content You Might Enjoy:</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul><li>Link to a related blog post </li><li>Link to a related blog post </li><li>Link to a related blog post</li><li>Link to a related blog post</li><li>Link to a related blog post</li><li>Link to a related blog post</li><li>Link to a related blog post</li><li>Link to a related blog post</li><li>Link to a post you want more SEO traffic on</li><li>Link to a post you want more SEO traffic on</li><li>Link to a post you want more SEO traffic on</li><li>Link to a category you want more SEO traffic on</li><li>Link to a category you want more SEO traffic on</li><li>Link to a category you want more SEO traffic on</li></ul>
 <!-- /wp:list -->
-
-<!-- wp:wp-recipe-maker/recipe {"id":25426,"updated":1612200001477} -->
-[wprm-recipe id="25426"]
-<!-- /wp:wp-recipe-maker/recipe -->

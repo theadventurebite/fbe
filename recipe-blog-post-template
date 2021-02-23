@@ -1,0 +1,145 @@
+<!-- wp:paragraph -->
+<p>This is the meta description of the recipe, talk about how awesome it is. You can talk about the ingredients or preparation method. Really sell it here. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Optional section here linking out to either a category you want to boost up in link authority or relevant recipes that make sense here (things that you would serve it with or a full dinner recipe if it is a sauce etc).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":25423,"sizeSlug":"large","linkDestination":"none"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://theadventurebite.com/wp-content/uploads/2015/02/healthy-chocolate-crepes-honey.jpg" alt="" class="wp-image-25423"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Talk some here, connect with the reader. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="h-convince-the-reader-why-they-should-use-your-recipe">CONVINCE THE READER WHY THEY SHOULD USE YOUR RECIPE</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>You could use a bulleted list</li><li>To talk about what is awesome. </li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>You could also use text here and tell a story about why they should use your recipe vs someone elses. Establish your authority here (why should I stay on this recipe vs bouncing to someone elses?)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="h-video-tutorial">VIDEO TUTORIAL</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"providerNameSlug":"youtube","responsive":true} /-->
+
+<!-- wp:heading -->
+<h2 id="h-ingredients-you-need">INGREDIENTS YOU NEED</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>You could use a list here </li><li>Or a photo overview of ingredients</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"align":"center","id":8934,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://theadventurebite.com/wp-content/uploads/14-8921-post/chocolate-crepe-ingredients.jpg" alt="" class="wp-image-8934"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="h-step-by-step-photos-process-seo-this-h2-heading">Step by step photos/process (SEO this H2 heading)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":25422,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://theadventurebite.com/wp-content/uploads/2015/02/chocolate-powder-for-crepes.jpg" alt="" class="wp-image-25422"/><figcaption>Add cocoa powder</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":8938,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://theadventurebite.com/wp-content/uploads/14-8921-post/chocolate-crepes-protein.jpg" alt="" class="wp-image-8938"/><figcaption>Add milk</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":8937,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://theadventurebite.com/wp-content/uploads/14-8921-post/chocolate-crepes-blendtec.jpg" alt="" class="wp-image-8937"/><figcaption>Add milk</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":8935,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://theadventurebite.com/wp-content/uploads/14-8921-post/chocolate-crepe-recipe.jpg" alt="" class="wp-image-8935"/><figcaption>Blend up the chocolate crepes!</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading -->
+<h2 id="h-how-to-make-keyword-from-scratch-seo-this-h2-heading">How To Make KEYWORD From Scratch (SEO this H2 heading)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This should be a short summary of the steps, the recipe card will have more details.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>step 1</li><li>step 2 </li><li>step 3</li><li>step 4</li><li>step 5</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 id="h-important-teaching-tips">Important Teaching Tips</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This is for things that are bigger than an FAQ, that the reader needs to know to be successful at the recipe. Best types of flour, ingredient suggestions, etc. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="h-products-affiliate-links-photos-if-there-is-something-special-don-t-stuff-this-with-useless-products-that-don-t-really-matter-1">Products (Affiliate links/photos if there is something special, don't stuff this with useless products that don't really matter) </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Super special product that you must have. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can write more about the recipe here and highlight features. Or launch right into FAQ's.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can use text to write FAQ's or use Yoast's FAQ boxes like so:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="h-frequently-asked-questions-about-keyword">Frequently Asked Questions About KEYWORD</h2>
+<!-- /wp:heading -->
+
+<!-- wp:yoast/faq-block {"questions":[{"id":"faq-question-1597861805511","question":["Question #1 - Substitutions"],"answer":["Answer the question"],"jsonQuestion":"Question #1 - Substitutions","jsonAnswer":"Answer the question"},{"id":"faq-question-1597861824710","question":["Question #2 - Freezing etc. "],"answer":["Answer the question"],"jsonQuestion":"Question #2 - Freezing etc. ","jsonAnswer":"Answer the question"}]} -->
+<div class="schema-faq wp-block-yoast-faq-block"><div class="schema-faq-section" id="faq-question-1597861805511"><strong class="schema-faq-question">Question #1 - Substitutions</strong> <p class="schema-faq-answer">Answer the question</p> </div> <div class="schema-faq-section" id="faq-question-1597861824710"><strong class="schema-faq-question">Question #2 - Freezing etc. </strong> <p class="schema-faq-answer">Answer the question</p> </div> </div>
+<!-- /wp:yoast/faq-block -->
+
+<!-- wp:heading -->
+<h2 id="h-more-recipes-you-might-enjoy">More Recipes You Might Enjoy:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Link to a related blog post </li><li>Link to a related blog post </li><li>Link to a related blog post</li><li>Link to a related blog post</li><li>Link to a related blog post</li><li>Link to a related blog post</li><li>Link to a related blog post</li><li>Link to a related blog post</li><li>Link to a post you want more SEO traffic on</li><li>Link to a post you want more SEO traffic on</li><li>Link to a post you want more SEO traffic on</li><li>Link to a category you want more SEO traffic on</li><li>Link to a category you want more SEO traffic on</li><li>Link to a category you want more SEO traffic on</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:wp-recipe-maker/recipe {"id":25426,"updated":1612200001477} -->
+[wprm-recipe id="25426"]
+<!-- /wp:wp-recipe-maker/recipe -->

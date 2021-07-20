@@ -15,7 +15,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 id="h-convince-the-reader-why-they-should-use-your-recipe">CONVINCE THE READER WHY THEY SHOULD USE YOUR RECIPE</h2>
+<h2>CONVINCE THE READER WHY THEY SHOULD USE YOUR RECIPE</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
@@ -27,13 +27,13 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 id="h-video-tutorial">VIDEO TUTORIAL</h2>
+<h2>VIDEO TUTORIAL</h2>
 <!-- /wp:heading -->
 
 <!-- wp:embed {"providerNameSlug":"youtube","responsive":true} /-->
 
 <!-- wp:heading -->
-<h2 id="h-ingredients-you-need">INGREDIENTS YOU NEED</h2>
+<h2>INGREDIENTS YOU NEED</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
@@ -49,7 +49,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 id="h-step-by-step-photos-process-seo-this-h2-heading">Step by step photos/process (SEO this H2 heading)</h2>
+<h2>Step by step photos/process (SEO this H2 heading)</h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns -->
@@ -89,7 +89,7 @@
 <!-- /wp:columns -->
 
 <!-- wp:heading -->
-<h2 id="h-how-to-make-keyword-from-scratch-seo-this-h2-heading">How To Make KEYWORD From Scratch (SEO this H2 heading)</h2>
+<h2>How To Make KEYWORD From Scratch (SEO this H2 heading)</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -101,7 +101,7 @@
 <!-- /wp:list -->
 
 <!-- wp:heading -->
-<h2 id="h-important-teaching-tips">Important Teaching Tips</h2>
+<h2>Important Teaching Tips</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -109,7 +109,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 id="h-products-affiliate-links-photos-if-there-is-something-special-don-t-stuff-this-with-useless-products-that-don-t-really-matter-1">Products (Affiliate links/photos if there is something special, don't stuff this with useless products that don't really matter) </h2>
+<h2>Products (Affiliate links/photos if there is something special, don't stuff this with useless products that don't really matter) </h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -125,7 +125,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2 id="h-frequently-asked-questions-about-keyword">Frequently Asked Questions About KEYWORD</h2>
+<h2>Frequently Asked Questions About KEYWORD</h2>
 <!-- /wp:heading -->
 
 <!-- wp:yoast/faq-block {"questions":[{"id":"faq-question-1597861805511","question":["Question #1 - Substitutions"],"answer":["Answer the question"],"jsonQuestion":"Question #1 - Substitutions","jsonAnswer":"Answer the question"},{"id":"faq-question-1597861824710","question":["Question #2 - Freezing etc. "],"answer":["Answer the question"],"jsonQuestion":"Question #2 - Freezing etc. ","jsonAnswer":"Answer the question"}]} -->
@@ -133,7 +133,7 @@
 <!-- /wp:yoast/faq-block -->
 
 <!-- wp:heading -->
-<h2 id="h-more-recipes-you-might-enjoy">More Recipes You Might Enjoy:</h2>
+<h2>More Recipes You Might Enjoy:</h2>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
